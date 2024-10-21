@@ -13,10 +13,10 @@
     "bn": "^1.0.5",
     "core-js": "^3.6.5",
     "math-js-sdk": "^1.0.9",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-router": "^3.4.3",
     "vuetify": "^2.2.11",
-    "web3": "^1.2.8"
+    "web3": "^4.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
